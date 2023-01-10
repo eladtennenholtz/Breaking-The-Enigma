@@ -1,1 +1,0 @@
-start java -jar ./uiFrontEndGui_jar/uiFrontEndGui.jar
